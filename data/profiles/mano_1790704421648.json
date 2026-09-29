@@ -1,0 +1,116 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "MANO",
+  "section": "PECTO",
+  "subcategory": "MANO CREATOR",
+  "model_id": "BEAUTY_SKINCARE",
+  "profile_id": "mano_1790704421648",
+  "created_at": "2026-09-29T17:53:41.648Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "MANO",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 50000,
+    "active_clients": 5000,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "mano_beauty_skincare",
+    "modelId": "BEAUTY_SKINCARE",
+    "storeName": "Kayy",
+    "tagline": "Holu",
+    "heroTitle": "LUMIÈRE ROSE RADIANCE SERUM",
+    "heroSubtitle": "Brightening + Hydrating Serum • 30ml",
+    "heroImageUrl": "https://i.ibb.co/zTmVntSY/stoc-mano-creator-avatar-1790704358201.jpg",
+    "categories": [
+      "All",
+      "Serums",
+      "Moisturizers",
+      "Cleansers"
+    ],
+    "products": [
+      {
+        "id": "bs1",
+        "name": "Radiance Serum",
+        "subtitle": "Brightening + Hydrating Serum • 30ml",
+        "category": "Serums",
+        "price": "$58.00",
+        "originalPrice": "$72.00",
+        "rating": 4.8,
+        "reviewCount": 124,
+        "tag": "-20% OFF",
+        "imageUrl": "https://i.ibb.co/Q7Z2PmmG/stoc-mano-creator-product-0-1790704360493.jpg",
+        "description": "Sérum éclat concentré à l’acide hyaluronique et à l’huile d’églantier.",
+        "specs": [
+          "Acide Hyaluronique",
+          "Huile d’Églantier",
+          "Vitamine C"
+        ]
+      },
+      {
+        "id": "bs2",
+        "name": "Rose Hydrating Cream",
+        "subtitle": "Crème hydratante veloutée • 50ml",
+        "category": "Moisturizers",
+        "price": "$48.00",
+        "rating": 4.9,
+        "reviewCount": 88,
+        "tag": "BESTSELLER",
+        "imageUrl": "https://i.ibb.co/xSr4D7j0/stoc-mano-creator-product-1-1790704362779.jpg",
+        "description": "Soin hydratant intense réconfortant aux extraits de rose sauvage."
+      },
+      {
+        "id": "bs3",
+        "name": "Botanical Facial Cleanser",
+        "subtitle": "Nettoyant doux aux pétales • 150ml",
+        "category": "Cleansers",
+        "price": "Ar 5 678",
+        "rating": 4.7,
+        "reviewCount": 62,
+        "tag": "CLEAN",
+        "imageUrl": "https://i.ibb.co/7xjsX2Tk/stoc-mano-creator-product-2-1790704364722.jpg",
+        "description": "Gel nettoyant apaisant pour éliminer les impuretés sans dessécher."
+      },
+      {
+        "id": "bs4",
+        "name": "Glow Face Oil",
+        "subtitle": "Huile précieuse régénérante • 30ml",
+        "category": "Serums",
+        "price": "$62.00",
+        "rating": 5,
+        "reviewCount": 45,
+        "tag": "LUXE",
+        "imageUrl": "https://images.unsplash.com/photo-1608248597263-00079e96047c?q=80&w=600&auto=format&fit=crop",
+        "description": "Élixir nourrissant aux 7 huiles végétales pures."
+      }
+    ],
+    "extraContent": {
+      "badges": [
+        "Clean Vegan",
+        "Cruelty-Free",
+        "Sensitive Safe"
+      ],
+      "testimonials": [
+        {
+          "id": "1",
+          "author": "Emma L.",
+          "comment": "Ma peau est lumineuse et hydratée depuis la première application !",
+          "rating": 5
+        },
+        {
+          "id": "2",
+          "author": "Sofia K.",
+          "comment": "Texture divine, parfum de rose délicat. Produit d’exception.",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T17:53:41.649Z"
+}
