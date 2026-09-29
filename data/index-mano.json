@@ -1,5 +1,18 @@
 [
   {
+    "id": "mano_1790704421648",
+    "store_name": "Kayy",
+    "tagline": "Holu",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 50000,
+    "active_clients": 5000,
+    "badge": "BEAUTY_SKINCARE",
+    "avatar_url": "https://i.ibb.co/zTmVntSY/stoc-mano-creator-avatar-1790704358201.jpg",
+    "banner_url": "https://i.ibb.co/zTmVntSY/stoc-mano-creator-avatar-1790704358201.jpg",
+    "model_id": "BEAUTY_SKINCARE",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/mano_1790704421648.json"
+  },
+  {
     "id": "mano_1790704153980",
     "store_name": "Toky",
     "tagline": "Handcrafted with care • Boutique solidaire céramiques & textiles",
