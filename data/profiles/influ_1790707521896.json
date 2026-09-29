@@ -1,0 +1,107 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CV",
+  "model_id": "cv-4",
+  "profile_id": "influ_1790707521896",
+  "created_at": "2026-09-29T18:45:21.896Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "fullName": "AINA RAZAFINDRABE",
+    "title": "COMPTABLE GESTIONNAIRE",
+    "avatarUrl": "https://i.ibb.co/6RvgpFRH/stoc-cv-avatar-1790707295960.jpg",
+    "location": "Antananarivo, Madagascar",
+    "email": "aina.razafindrabe@email.mg",
+    "phone": "+261 34 12 345 67",
+    "linkedin": "linkedin.com/in/aina-razafindrabe",
+    "profileSummary": "Comptable gestionnaire rigoureuse et organisée, dotée de 6 années d'expérience en comptabilité générale, contrôle de gestion et pilotage budgétaire. Passionnée par l'optimisation des processus financiers et l'accompagnement des dirigeants dans la prise de décision. Sens de l'analyse, discrétion et fiabilité.",
+    "experiences": [
+      {
+        "role": "COMPTABLE GESTIONNAIRE",
+        "company": "Isika Audit Conseil",
+        "location": "Antananarivo, Madagascar",
+        "period": "Depuis 2022",
+        "highlights": [
+          "Tenue complète de la comptabilité pour portefeuille de 15 PME clientes multisecteurs",
+          "Élaboration des bilans, comptes de résultat et liasses fiscales annuelles",
+          "Suivi budgétaire, analyse des écarts et reporting mensuel pour la direction",
+          "Mise en place de procédures de contrôle interne et amélioration des process comptables",
+          "Accompagnement lors des audits et contrôle fiscal"
+        ]
+      },
+      {
+        "role": "ASSISTANTE COMPTABLE",
+        "company": "Cabinet Fihary Compta",
+        "location": "Antananarivo, Madagascar",
+        "period": "2019 — 2022",
+        "highlights": [
+          "Saisie et lettrage des comptes clients et fournisseurs • Préparation des déclarations fiscales mensuelles et sociales (CNAPS, OSTIE)",
+          "Suivi des règlements et relances clients, gestion des paiements fournisseurs",
+          "Participation à la clôture mensuelle et trimestrielle des comptes",
+          "Classement, archivage et gestion documentaire comptable"
+        ]
+      }
+    ],
+    "educations": [
+      {
+        "degree": "Licence Professionnelle en Comptabilité et Gestion",
+        "school": "Institut Supérieur de Technologie d'Antananarivo (IST-T)",
+        "period": "2021"
+      },
+      {
+        "degree": "BTS Comptabilité et Gestion",
+        "school": "École Supérieure de Gestion (ESG) — Antananarivo",
+        "period": "2019"
+      }
+    ],
+    "skills": [
+      "Comptabilité générale & analytique",
+      "Gestion de la trésorerie",
+      "Établissement des états financiers",
+      "Déclarations fiscales & sociales (TVA, IR, CNAPS)",
+      "Contrôle budgétaire & reporting",
+      "Consolidation & réconciliation bancaire",
+      "Analyse des coûts & optimisation"
+    ],
+    "tools": [
+      "Sage 100 Comptabilité",
+      "Ciel Compta",
+      "Excel avancé (TCD, VBA)",
+      "QuickBooks",
+      "Odoo"
+    ],
+    "languages": [
+      "Français : Courant",
+      "Malagasy : Langue maternelle",
+      "Anglais : Professionnel"
+    ],
+    "certifications": [
+      "Certification Sage 100 Comptabilité 2023",
+      "Formation Réglementation Fiscale Malgache — 2022"
+    ],
+    "qualities": [
+      "Rigueur & précision",
+      "Sens de l'organisation",
+      "Travail d'équipe",
+      "Discrète & éthique"
+    ],
+    "footerNote": "Références disponibles sur demande • CV mis à jour en septembre 2025",
+    "projects": [],
+    "values": []
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T18:45:21.896Z"
+}
