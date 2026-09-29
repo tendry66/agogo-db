@@ -1,0 +1,95 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CV",
+  "model_id": "cv-3",
+  "profile_id": "influ_1790703870262",
+  "created_at": "2026-09-29T17:44:30.262Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "fullName": "RAKOTO ANDRIAN",
+    "title": "RESPONSABLE HÉBERGEMENT — HÔTELLERIE DE LUXE",
+    "avatarUrl": "https://i.ibb.co/sdDp7dpY/stoc-cv-avatar-1790701416167.jpg",
+    "location": "Antananarivo, Madagascar",
+    "email": "rakoto.andrian@email.mg",
+    "phone": "+261 34 12 345 67",
+    "linkedin": "linkedin.com/in/rakoto-andrian",
+    "profileSummary": "Manager hôtelier passionné avec plus de 6 ans d'expérience en hôtellerie de luxe à Madagascar. Expert en gestion d'hébergement, coordination d'équipes et satisfaction client haut de gamme. Recherche l'excellence opérationnelle et le service personnalisé pour offrir une expérience client mémorable, dans le respect des standards internationaux.",
+    "experiences": [
+      {
+        "role": "RESPONSABLE HÉBERGEMENT",
+        "company": "HÔTEL TSINGY EVASION",
+        "location": "Diana, Madagascar",
+        "period": "Janvier 2021 — Présent",
+        "highlights": [
+          "Supervision quotidienne du service hébergement pour un établissement 5 étoiles de 45 chambres & suites de luxe",
+          "Management et formation d'une équipe de 20 employés : réception, gouvernance, conciergerie",
+          "Optimisation du taux d'occupation (+22% en 3 ans) et gestion du revenue management",
+          "Mise en place des procédures de qualité et standards de service luxe, satisfaction client 96%"
+        ]
+      },
+      {
+        "role": "RESPONSABLE FRONT OFFICE",
+        "company": "LODGE RAVINALA DIANA",
+        "location": "Antsiranana, Madagascar",
+        "period": "Mars 2018 — Décembre 2020",
+        "highlights": [
+          "Accueil et gestion des réservations pour un lodge éco-luxe de 25 villas",
+          "Coordination avec les équipes ménage et maintenance pour garantir un service irréprochable",
+          "Développement de partenariats avec agences voyages & tour-opérateurs internationaux",
+          "Élaboration des plannings et gestion des coûts, réduction de 15% des frais opérationnels"
+        ]
+      }
+    ],
+    "educations": [
+      {
+        "degree": "LICENCE PROFESSIONNELLE MANAGEMENT HÔTELIER",
+        "school": "Institut Supérieur de Tourisme et Hôtellerie — Antananarivo",
+        "period": "2015 — 2018"
+      }
+    ],
+    "skills": [
+      "Gestion PMS : Opera, Hospitality Cloud",
+      "Revenue Management & Yield",
+      "Standards Hôtellerie 5* & Luxe",
+      "Management d'équipe & RH",
+      "Qualité & Sécurité (HACCP)",
+      "Relation client & CRM",
+      "Budget & Contrôle des coûts",
+      "Organisation d'événements & séminaires"
+    ],
+    "languages": [
+      "Français : Courant (bilingue)",
+      "Malgasy : Langue maternelle",
+      "Anglais : Professionnel (C1)"
+    ],
+    "qualities": [
+      "Leadership",
+      "Rigueur",
+      "Sens du service",
+      "Adaptabilité",
+      "Discrétion",
+      "Orientation client"
+    ],
+    "footerNote": "Disponible pour poste de Responsable Hébergement - Secteur Hôtellerie Luxe à Madagascar | Références sur demande",
+    "tools": [],
+    "projects": [],
+    "certifications": [],
+    "values": []
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T17:44:30.262Z"
+}
