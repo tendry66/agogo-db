@@ -1,0 +1,63 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CRUSH",
+  "model_id": "mod-2",
+  "profile_id": "influ_1790704594721",
+  "created_at": "2026-09-29T17:56:34.721Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "name": "Tsiky",
+    "age": 29,
+    "verified": true,
+    "location": "Paris, France • 5 km",
+    "badgeSub": "♡ En ligne maintenant",
+    "avatarUrl": "https://i.ibb.co/zTZYm6ws/stoc-crush-avatar-1790704527817.jpg",
+    "personality": [
+      "🧭 Aventurier (Voyages",
+      "randonnée",
+      "découvertes)",
+      "🛡️ Loyal (Confiance & valeur fidèle)"
+    ],
+    "seeking": "Complicité & Humour",
+    "seekingDetail": "Connexion profonde, sincère et partagée. J'aime rire, esprit léger et taquin.",
+    "exShadow": "a appris à communiquer",
+    "exShadowDetail": "Relation passée m'a appris l'importance du dialogue, de l'écoute et du respect des limites.",
+    "greenFlags": [
+      "Honnête et transparent",
+      "Respectueux & bienveillant",
+      "Curieux, aime apprendre"
+    ],
+    "redFlags": [
+      "Manque de communication",
+      "Jalousie excessive",
+      "Pas de sérieux"
+    ],
+    "passions": [
+      "🍷 Cuisine & vin",
+      "🏋️ Sport • Gym",
+      "✈️ Voyages",
+      "🎵 Jazz & concerts"
+    ],
+    "whatIOffer": [],
+    "whatIWant": [],
+    "lifeGoals": [],
+    "loveLanguages": [],
+    "values": []
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T17:56:34.721Z"
+}
