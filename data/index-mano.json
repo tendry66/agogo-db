@@ -1,5 +1,18 @@
 [
   {
+    "id": "mano_1790704153980",
+    "store_name": "Toky",
+    "tagline": "Handcrafted with care • Boutique solidaire céramiques & textiles",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 50000,
+    "active_clients": 5000,
+    "badge": "EDITORIAL_ARTISAN",
+    "avatar_url": "https://i.ibb.co/qLnMY8SJ/stoc-mano-creator-avatar-1790701096182.jpg",
+    "banner_url": "https://i.ibb.co/qLnMY8SJ/stoc-mano-creator-avatar-1790701096182.jpg",
+    "model_id": "EDITORIAL_ARTISAN",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/mano_1790704153980.json"
+  },
+  {
     "id": "mano_1790703905933",
     "store_name": "Toky",
     "tagline": "Handcrafted with care • Boutique solidaire céramiques & textiles",
