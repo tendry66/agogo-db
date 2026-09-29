@@ -1,0 +1,72 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "RSTY",
+  "model_id": "RSTY-06",
+  "profile_id": "profile_1790688034556",
+  "created_at": "2026-09-29T13:20:34.556Z",
+  "data": {
+    "text_fields": {
+      "name": "Miora",
+      "handle": "@miora.mg",
+      "badge": "Vérifié ✨",
+      "category": "Lifestyle & Voyage Madagascar",
+      "location": "Antananarivo, Madagascar",
+      "bio": "Lifestyle • Culture • Voyage • Madagascar\nJe partage cuisine, nature & slow living\nAntananarivo, Madagascar",
+      "collabEmail": "contact@miora.mg",
+      "metrics": [
+        {
+          "label": "Publications",
+          "value": "127"
+        },
+        {
+          "label": "Abonnés",
+          "value": "24.8K"
+        },
+        {
+          "label": "Abonnements",
+          "value": "512"
+        }
+      ],
+      "socials": [
+        {
+          "platform": "instagram",
+          "handle": "@miora.mg",
+          "url": "https://instagram.com/miora.mg",
+          "followers": "24.8K"
+        },
+        {
+          "platform": "email",
+          "handle": "contact@miora.mg",
+          "url": "mailto:contact@miora.mg"
+        }
+      ],
+      "modelSpecific": {
+        "postsCount": "127",
+        "followersCount": "24.8K",
+        "followingCount": "512",
+        "bioLine1": "Lifestyle • Culture • Voyage • Madagascar",
+        "bioLine2": "Je partage cuisine, nature & slow living",
+        "bioLine3Location": "Antananarivo, Madagascar",
+        "isFollowed": false,
+        "activeTab": "posts"
+      }
+    },
+    "image_urls": [
+      "https://i.ibb.co/GQkxttBx/rsty-rsty-06-avatar-1790687904494.jpg",
+      "https://i.ibb.co/KjrjcqkC/rsty-rsty-06-banner-1790687908661.jpg",
+      "https://i.ibb.co/R4jdgTGD/rsty-rsty-06-gallery-1-1790687911706.jpg",
+      "https://i.ibb.co/zWFJS9vk/rsty-rsty-06-gallery-2-1790687913991.jpg",
+      "https://i.ibb.co/gLPpb1zy/rsty-rsty-06-gallery-3-1790687916988.jpg",
+      "https://i.ibb.co/0zSsdfH/rsty-rsty-06-gallery-4-1790687918796.jpg",
+      "https://i.ibb.co/KxSwp0rP/rsty-rsty-06-gallery-5-1790687920383.jpg",
+      "https://i.ibb.co/8Dy11WcW/rsty-rsty-06-gallery-6-1790687921857.jpg",
+      "https://i.ibb.co/gZZ3nDN0/rsty-rsty-06-gallery-7-1790687923843.jpg",
+      "https://i.ibb.co/7dc5M2ff/rsty-rsty-06-gallery-8-1790687925291.jpg",
+      "https://i.ibb.co/2x3Wstx/rsty-rsty-06-gallery-9-1790687927087.jpg"
+    ]
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T13:20:34.557Z"
+}
