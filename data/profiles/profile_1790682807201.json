@@ -1,0 +1,102 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "RSTY",
+  "model_id": "RSTY-08",
+  "profile_id": "profile_1790682807201",
+  "created_at": "2026-09-29T11:53:27.201Z",
+  "data": {
+    "text_fields": {
+      "name": "Antsa Ravo",
+      "handle": "@antsa.art",
+      "badge": "Artiste Vérifiée ✨",
+      "category": "Artiste Malgache ✨ Conteur Visuel",
+      "location": "Antananarivo, Madagascar 📍",
+      "bio": "Artiste Malgache ✨ Conteur Visuel\nPeinture • Gravures lino & aquarelle\nAntananarivo, Madagascar 📍\nInspiré nature & culture | Commandes ouvertes\nJe partage l’art et la créativité malgache",
+      "collabEmail": "bonjour@antsa.art",
+      "metrics": [
+        {
+          "label": "Publications",
+          "value": "89"
+        },
+        {
+          "label": "Abonnés",
+          "value": "12.3K"
+        },
+        {
+          "label": "Abonnements",
+          "value": "340"
+        }
+      ],
+      "socials": [
+        {
+          "platform": "instagram",
+          "handle": "@antsa.art",
+          "url": "#",
+          "followers": "12.3K"
+        },
+        {
+          "platform": "tiktok",
+          "handle": "@antsa_artprocess",
+          "url": "#",
+          "followers": "28K"
+        },
+        {
+          "platform": "email",
+          "handle": "bonjour@antsa.art",
+          "url": "mailto:bonjour@antsa.art"
+        }
+      ],
+      "modelSpecific": {
+        "genzBioLines": {
+          "tagline": "Artiste Malgache ✨ Conteur Visuel",
+          "mediums": "Peinture • Gravures lino & aquarelle",
+          "locationTag": "Antananarivo, Madagascar 📍",
+          "ordersStatus": "Inspiré nature & culture | Commandes ouvertes",
+          "mission": "Je partage l’art et la créativité malgache"
+        },
+        "stories": [
+          {
+            "id": "s-1",
+            "label": "Nouveau",
+            "icon": "plus"
+          },
+          {
+            "id": "s-2",
+            "label": "Art",
+            "icon": "palette"
+          },
+          {
+            "id": "s-3",
+            "label": "Processus",
+            "icon": "brush"
+          },
+          {
+            "id": "s-4",
+            "label": "Voyage",
+            "icon": "tree"
+          },
+          {
+            "id": "s-5",
+            "label": "Marché",
+            "icon": "basket"
+          }
+        ],
+        "activeTab": "posts"
+      }
+    },
+    "image_urls": [
+      "https://i.ibb.co/Pyfvpyt/rsty-rsty-08-avatar-1790682670568.jpg",
+      "https://i.ibb.co/NnWk35qj/rsty-rsty-08-banner-1790682674692.jpg",
+      "https://i.ibb.co/VYwp8XVt/rsty-rsty-08-gallery-1-1790682678157.jpg",
+      "https://i.ibb.co/hJPRLR4K/rsty-rsty-08-gallery-2-1790682681592.jpg",
+      "https://i.ibb.co/cSQs9VRL/rsty-rsty-08-gallery-3-1790682685261.jpg",
+      "https://i.ibb.co/nqcY3Wt5/rsty-rsty-08-gallery-4-1790682688329.jpg",
+      "https://i.ibb.co/397R2vZ9/rsty-rsty-08-gallery-5-1790682690622.jpg",
+      "https://i.ibb.co/b5nQmcXk/rsty-rsty-08-gallery-6-1790682692998.jpg"
+    ]
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T11:53:27.202Z"
+}
