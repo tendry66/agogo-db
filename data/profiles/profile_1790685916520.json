@@ -1,0 +1,110 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "RSTY",
+  "model_id": "RSTY-07",
+  "profile_id": "profile_1790685916520",
+  "created_at": "2026-09-29T12:45:16.520Z",
+  "data": {
+    "text_fields": {
+      "name": "Lezala",
+      "handle": "@ramanan.dev",
+      "badge": "Créateur Vérifié",
+      "category": "Créateur Tech • IA & Systèmes Embarqués",
+      "location": "Antananarivo, Madagascar • MG",
+      "bio": "Construction robotique open-source • ROS2 • Python/Rust • Éducation tech communautaire",
+      "collabEmail": "ramanan@creatorspace.mg",
+      "metrics": [
+        {
+          "label": "Abonnés",
+          "value": "12.4K",
+          "change": "+1.8K ce mois"
+        },
+        {
+          "label": "Abonnements",
+          "value": "342"
+        },
+        {
+          "label": "Vues",
+          "value": "1.2M",
+          "change": "Total cumulé"
+        }
+      ],
+      "socials": [
+        {
+          "platform": "youtube",
+          "handle": "Ramanan Tech Lab",
+          "url": "#",
+          "followers": "12.4K"
+        },
+        {
+          "platform": "instagram",
+          "handle": "@ramanan.dev",
+          "url": "#",
+          "followers": "8.9K"
+        },
+        {
+          "platform": "email",
+          "handle": "ramanan@creatorspace.mg",
+          "url": "mailto:ramanan@creatorspace.mg"
+        }
+      ],
+      "modelSpecific": {
+        "techSubtitle": "Créateur Tech • IA & Systèmes Embarqués",
+        "contentXp": {
+          "current": 8420,
+          "max": 10000
+        },
+        "collabsCount": "6 Actifs",
+        "avgViewsPerPost": "48.3K",
+        "techStack": [
+          "Python",
+          "Rust",
+          "ROS2",
+          "Conception PCB",
+          "ESP32",
+          "FreeRTOS"
+        ],
+        "creations": [
+          {
+            "id": "c-1",
+            "title": "Drone Open-Source v2.1",
+            "subtitle": "Autonome avec LIDAR & télémétrie LoRa longue portée",
+            "tag": "ROBOTIQUE",
+            "imageUrl": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?w=600&auto=format&fit=crop&q=80",
+            "stars": "⭐ 4.9",
+            "status": "v2.1 STABLE"
+          },
+          {
+            "id": "c-2",
+            "title": "Clavier PCB Custom",
+            "subtitle": "Conception KiCad 65% hotswap & firmware Rust/QMK",
+            "tag": "HARDWARE",
+            "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+            "stars": "⭐ 4.8",
+            "status": "GERBER READY"
+          },
+          {
+            "id": "c-3",
+            "title": "Tutoriel ML sur ESP32",
+            "subtitle": "Modèle TinyML pour capteurs agricoles connectés",
+            "tag": "TINYML / IA",
+            "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=600&auto=format&fit=crop&q=80",
+            "stars": "⭐ 5.0",
+            "status": "TUTO DISPO"
+          }
+        ]
+      }
+    },
+    "image_urls": [
+      "https://i.ibb.co/JjGRsXM6/rsty-rsty-07-avatar-1790685774505.jpg",
+      "https://i.ibb.co/KR8JLk2/rsty-rsty-07-banner-1790685778199.jpg",
+      "https://i.ibb.co/7dpZ2tCX/rsty-rsty-07-gallery-1-1790685780143.jpg",
+      "https://i.ibb.co/Hf6bD102/rsty-rsty-07-gallery-2-1790685782409.jpg",
+      "https://i.ibb.co/0ym6GFrB/rsty-rsty-07-gallery-3-1790685784518.jpg"
+    ]
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T12:45:16.521Z"
+}
