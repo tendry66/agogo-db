@@ -1,0 +1,128 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "ORGA",
+  "section": "PECTO",
+  "subcategory": "ORGA CREA",
+  "model_id": "VONJY_MAITSO",
+  "profile_id": "orga_1790703741354",
+  "created_at": "2026-09-29T17:42:21.354Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "ORGA",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "orga_vonjy_maitso",
+    "modelId": "VONJY_MAITSO",
+    "orgName": "Vonjy Maitso Antsirabe",
+    "tagline": "Association environnementale • Antsirabe, Madagascar",
+    "subtitle": "Miaro ny tontolo iainana",
+    "badgeLabel": "Tetikasam-pambolena 2025",
+    "location": "Antsirabe, Madagascar",
+    "yearEstablished": "2023",
+    "heroTitle": "Miaro ny tontolo iainana",
+    "heroSubtitle": "Protéger l'environnement • Tetikasam-pambolena 2025",
+    "heroDescription": "Nous œuvrons pour la protection et la restauration des écosystèmes locaux, en partenariat avec les communautés rurales d'Antsirabe pour un avenir durable.",
+    "heroImageUrl": "https://i.ibb.co/ds58YBtG/stoc-orga-crea-avatar-1790701517521.jpg",
+    "heroButton1Text": "Mianara bebe kokoa",
+    "heroButton2Text": "En savoir plus",
+    "missionTitle": "MISIO • MISSION",
+    "missionSubtitle": "Ny misio ananay / Notre mission",
+    "missionContentMalgache": "Vonjy Maitso Antsirabe dia fikambanana tsy mitady tombom-barotra, miasa amin'ny fiarovana sy famerenana ny tontolo iainana any amin'ny faritra Antsirabe, Madagascar.",
+    "missionContentFrench": "Nous œuvrons pour la protection et la restauration des écosystèmes locaux, en partenariat avec les communautés rurales pour un avenir durable.",
+    "projectsTitle": "TETIKASA • PROJETS",
+    "projectsSubtitle": "Tetikasa Reboisement 2025 — Trois programmes phares pour l’environnement et les communautés",
+    "projectsList": [
+      {
+        "id": "p1",
+        "code": "01",
+        "title": "Reboisement communautaire",
+        "description": "Fambolen-kazo 8 000 hazo amin’ny faritra 5 vohitra manodidina Antsirabe. 8 000 arbres plantés dans 5 villages — lutte contre la déforestation.",
+        "period": "Avr - Nov 2025",
+        "status": "En cours",
+        "imageUrl": "https://i.ibb.co/x8BSF76R/stoc-orga-crea-Projet-0-1790701520574.jpg"
+      },
+      {
+        "id": "p2",
+        "code": "02",
+        "title": "Agroforesterie durable",
+        "description": "Fampifangaroana hazo voankazo amin’ny voly vary sy katsaka — fanofanana tantsaha 120+. Combinaison arbres fruitiers & cultures vivrières — 120+ agriculteurs formés.",
+        "period": "Mar - Nov 2025",
+        "status": "En cours",
+        "imageUrl": "https://i.ibb.co/gFryk2T8/stoc-orga-crea-Projet-1-1790701522071.jpg"
+      },
+      {
+        "id": "p3",
+        "code": "03",
+        "title": "Fiarovana ny loharano sy renirano",
+        "description": "Fanamboarana sakana erosiona 12km sy fanadiovana loharano 6. 12 km de berges restaurées & 6 sources protégées.",
+        "period": "Jan - Jun 2025",
+        "status": "Vita",
+        "imageUrl": "https://i.ibb.co/8nm4zkVb/stoc-orga-crea-Projet-2-1790701523219.jpg"
+      }
+    ],
+    "teamTitle": "EKIPA • ÉQUIPE",
+    "teamSubtitle": "Ny ekipanay — Mpiara-miasa eo an-toerana / Notre équipe passionnée & locale",
+    "teamList": [
+      {
+        "id": "t1",
+        "name": "Rasoanirina L.",
+        "role": "Mpitantana Tetikasa / Coordinatrice",
+        "bio": "Passionnée d’agroécologie avec 10 ans d’expérience.",
+        "avatarUrl": "https://i.ibb.co/xtZX01mS/stoc-orga-crea-team-0-1790701524942.jpg"
+      },
+      {
+        "id": "t2",
+        "name": "Andry R.",
+        "role": "Teknisianina tontolo iainana / Écologiste",
+        "bio": "Spécialiste de la reforestation de la flore malgache.",
+        "avatarUrl": "https://i.ibb.co/xKqwSq9Z/stoc-orga-crea-team-1-1790701526613.jpg"
+      },
+      {
+        "id": "t3",
+        "name": "Miary F.",
+        "role": "Mpanofanana fiaraha-monina / Formatrice locale",
+        "bio": "En charge du développement communautaire et de la sensibilisation.",
+        "avatarUrl": "https://i.ibb.co/MzTNhBN/stoc-orga-crea-team-2-1790701528103.jpg"
+      }
+    ],
+    "impactTitle": "FIANTRAIKANY • IMPACT",
+    "impactSubtitle": "Ny fiantraikany hatreto 2025 — Chiffres clés depuis 2023",
+    "impactMetrics": [
+      {
+        "id": "m1",
+        "label": "Hazo nambolena / Arbres plantés",
+        "value": "12 500"
+      },
+      {
+        "id": "m2",
+        "label": "Ha nohavaozina / Hectares restaurés",
+        "value": "45 Ha"
+      },
+      {
+        "id": "m3",
+        "label": "Fianakaviana nampianarina / Familles accompagnées",
+        "value": "320"
+      },
+      {
+        "id": "m4",
+        "label": "Vohitra miara-miasa / Villages partenaires",
+        "value": "8"
+      }
+    ],
+    "contactAddress": "Adiresy: Fokontany Tsarasata, 110 — Antsirabe, Madagascar",
+    "contactPhone": "+261 32 45 67 890",
+    "contactEmail": "contact@vonjymaitso.mg",
+    "footerQuote": "Mifandraisa aminay — Contactez-nous • Fiaraha-miasa"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-29T17:42:21.354Z"
+}
