@@ -1,5 +1,14 @@
 [
   {
+    "id": "profile_1790688034556",
+    "name": "Miora",
+    "goal": "Lifestyle • Culture • Voyage • Madagascar\nJe partage cuisine, nature & slow living\nAntananarivo, Madagascar",
+    "badge": "Vérifié ✨",
+    "avatar_url": "https://i.ibb.co/GQkxttBx/rsty-rsty-06-avatar-1790687904494.jpg",
+    "model_id": "RSTY-06",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/profile_1790688034556.json"
+  },
+  {
     "id": "profile_1790685916520",
     "name": "Lezala",
     "goal": "Construction robotique open-source • ROS2 • Python/Rust • Éducation tech communautaire",
