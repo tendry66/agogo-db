@@ -1,5 +1,16 @@
 [
   {
+    "id": "orga_1790747363147",
+    "org_name": "Rano Madio Toliara",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana",
+    "location": "Toliara (Tuléar), Madagascar",
+    "badge": "RANO_MADIO",
+    "avatar_url": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b3?q=80&w=1200&auto=format&fit=crop",
+    "model_id": "RANO_MADIO",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/orga_1790747363147.json"
+  },
+  {
     "id": "orga_1790703741354",
     "org_name": "Vonjy Maitso Antsirabe",
     "org_type": "Association",
