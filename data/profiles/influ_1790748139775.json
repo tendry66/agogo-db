@@ -1,0 +1,53 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CRUSH",
+  "model_id": "mod-1",
+  "profile_id": "influ_1790748139775",
+  "created_at": "2026-09-30T06:02:19.775Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "name": "Dina",
+    "age": "23",
+    "verified": true,
+    "location": "Paris, France • 5 km",
+    "badgeSub": "En ligne",
+    "avatarUrl": "https://i.ibb.co/WWvPBwbr/stoc-crush-avatar-1790748055719.jpg",
+    "personality": [
+      "😊 Extravertie",
+      "🫶 Empathique"
+    ],
+    "seeking": "Relation sérieuse ♡",
+    "exShadow": "Évite les jaloux",
+    "passions": [
+      "✈️ Voyage",
+      "🍴 Cuisine",
+      "🧘 Yoga",
+      "☕ Café"
+    ],
+    "promptQuestion": "Mon rendez-vous parfait ?",
+    "promptAnswer": "Un dîner, rire, et une balade au coucher du soleil 🌅",
+    "greenFlags": [],
+    "redFlags": [],
+    "whatIOffer": [],
+    "whatIWant": [],
+    "lifeGoals": [],
+    "loveLanguages": [],
+    "values": []
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-30T06:02:19.776Z"
+}
