@@ -1,0 +1,85 @@
+{
+  "app": "AGOGO_PWA",
+  "category": "MANO",
+  "section": "PECTO",
+  "subcategory": "MANO CREATOR",
+  "model_id": "PLAYCLAY_SHOP",
+  "profile_id": "mano_1790746916432",
+  "created_at": "2026-09-30T05:41:56.432Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "MANO",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "mano_playclay_shop",
+    "modelId": "PLAYCLAY_SHOP",
+    "storeName": "Playclay Shop",
+    "tagline": "Search playful goodies... • 3D Kawaii Goods",
+    "heroTitle": "Cloud Glow Lamp",
+    "heroSubtitle": "Lampe nuage souriante bleu clair avec étoiles scintillantes",
+    "heroImageUrl": "https://i.ibb.co/hx0WBYtX/stoc-mano-creator-avatar-1790707272652.jpg",
+    "categories": [
+      "All",
+      "Toys",
+      "Home",
+      "Gifts"
+    ],
+    "products": [
+      {
+        "id": "pc1",
+        "name": "Clay Bunny Lamp",
+        "subtitle": "Rose Kawaii • Rechargeable USB",
+        "category": "Home",
+        "price": "$24.99",
+        "rating": 5,
+        "tag": "POPULAR",
+        "imageUrl": "https://i.ibb.co/fV584bY0/stoc-mano-creator-product-0-1790707277425.jpg",
+        "description": "Veilleuse lapin trop mignonne en matière toucher doux."
+      },
+      {
+        "id": "pc2",
+        "name": "Orange Slice Candle",
+        "subtitle": "Parfumé Agrumes • Cire végétale",
+        "category": "Home",
+        "price": "$18.50",
+        "rating": 4.9,
+        "tag": "FRESH",
+        "imageUrl": "https://i.ibb.co/k2wRsVdT/stoc-mano-creator-product-1-1790707278798.jpg",
+        "description": "Bougie gourmande en forme de tranche d’orange."
+      },
+      {
+        "id": "pc3",
+        "name": "Puffy Cloud Speaker",
+        "subtitle": "Enceinte Bluetooth Nuage",
+        "category": "Toys",
+        "price": "$32.00",
+        "rating": 4.8,
+        "tag": "NEW",
+        "imageUrl": "https://i.ibb.co/zHF1ytKn/stoc-mano-creator-product-2-1790707280971.jpg",
+        "description": "Enceinte portable au design nuage moelleux."
+      },
+      {
+        "id": "pc4",
+        "name": "Pastel Star Pillow",
+        "subtitle": "Coussin Étoile Moelleux",
+        "category": "Gifts",
+        "price": "$22.00",
+        "rating": 4.9,
+        "tag": "COZY",
+        "imageUrl": "https://i.ibb.co/2Y5S4dHW/stoc-mano-creator-product-3-1790707282414.jpg",
+        "description": "Doux coussin décoratif en forme d’étoile pastel."
+      }
+    ]
+  },
+  "synced_to_github": true,
+  "published_at": "2026-09-30T05:41:56.432Z"
+}
