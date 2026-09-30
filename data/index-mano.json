@@ -1,5 +1,18 @@
 [
   {
+    "id": "mano_1790746916432",
+    "store_name": "Playclay Shop",
+    "tagline": "Search playful goodies... • 3D Kawaii Goods",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "badge": "PLAYCLAY_SHOP",
+    "avatar_url": "https://i.ibb.co/hx0WBYtX/stoc-mano-creator-avatar-1790707272652.jpg",
+    "banner_url": "https://i.ibb.co/hx0WBYtX/stoc-mano-creator-avatar-1790707272652.jpg",
+    "model_id": "PLAYCLAY_SHOP",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/mano_1790746916432.json"
+  },
+  {
     "id": "mano_1790707480962",
     "store_name": "Playclay Shop",
     "tagline": "Search playful goodies... • 3D Kawaii Goods",
