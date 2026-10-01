@@ -1,5 +1,18 @@
 [
   {
+    "id": "stoc_mano_grocery_bio_1790858672390",
+    "store_name": "Ferme Tiko",
+    "tagline": "Fresh from the farm • Marché paysan Antsirabe",
+    "sector": "Distribution • Commerce",
+    "total_sales": 20,
+    "active_clients": 30,
+    "badge": "GROCERY_BIO",
+    "avatar_url": "https://i.ibb.co/67CsVDRK/stoc-mano-creator-avatar-1790858798498.jpg",
+    "banner_url": "https://i.ibb.co/67CsVDRK/stoc-mano-creator-avatar-1790858798498.jpg",
+    "model_id": "GROCERY_BIO",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/stoc_mano_grocery_bio_1790858672390.json"
+  },
+  {
     "id": "stoc_mano_editorial_artisan_1790850981765",
     "store_name": "Toky",
     "tagline": "Handcrafted with care • Boutique solidaire céramiques & textiles",
