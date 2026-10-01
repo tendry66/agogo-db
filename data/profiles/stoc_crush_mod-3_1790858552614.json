@@ -1,0 +1,69 @@
+{
+  "id": "stoc_crush_mod-3_1790858552614",
+  "name": "Mirana",
+  "group": "INFLU",
+  "model_id": "mod-3",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CRUSH",
+  "profile_id": "stoc_crush_mod-3_1790858552614",
+  "created_at": "2026-10-01T12:48:51.376Z",
+  "specific_fields": {
+    "purpose": "Mitady akizy kely",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Commerce",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "name": "Mirana",
+    "age": "22",
+    "verified": false,
+    "location": "Paris, France",
+    "badgeSub": "♡ En ligne aujourd'hui • iel/they • 24 ans",
+    "avatarUrl": "https://i.ibb.co/5Wvk1T5q/stoc-crush-avatar-1790858832259.jpg",
+    "personality": [
+      "✏️ créatif",
+      "✨ sensible"
+    ],
+    "seeking": "connexion profonde",
+    "seekingDetail": "Je privilégie les liens authentiques et les conversations qui ont du sens",
+    "loveLanguages": [
+      "💬 Paroles valorisantes",
+      "🕒 Temps de qualité",
+      "🎁 Cadeaux attentionnés"
+    ],
+    "passions": [
+      "🎨 Art & création",
+      "🌿 Nature & plantes",
+      "📖 Lecture & écriture",
+      "🎵 Musique indie",
+      "☕ Thé & pâtisserie",
+      "🏺 Poterie créative"
+    ],
+    "quote": "« J'aime les conversations qui durent jusqu'à l'aube et les silences qui rassurent »",
+    "exShadow": "Recherche le respect mutuel et un safe space apaisé",
+    "contactLink": "tikoranavalona@gmail.com",
+    "greenFlags": [],
+    "redFlags": [],
+    "whatIOffer": [],
+    "whatIWant": [],
+    "lifeGoals": [],
+    "values": [],
+    "purpose": "Mitady akizy kely",
+    "totalSales": 280,
+    "activeClients": 142,
+    "activitySummary": "Activité : Fanampiana sy fampandrosoana",
+    "modelId": "mod-3",
+    "model_id": "mod-3"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-01T12:48:51.377Z"
+}
