@@ -1,0 +1,61 @@
+{
+  "id": "stoc_mano_grocery_bio_1790858672390",
+  "name": "Ferme Tiko",
+  "group": "MANO",
+  "model_id": "GROCERY_BIO",
+  "app": "AGOGO_PWA",
+  "category": "MANO",
+  "section": "PECTO",
+  "subcategory": "MANO CREATOR",
+  "profile_id": "stoc_mano_grocery_bio_1790858672390",
+  "created_at": "2026-10-01T12:49:41.992Z",
+  "specific_fields": {
+    "purpose": "Romance & Rencontre",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Commerce",
+    "total_sales": 20,
+    "active_clients": 30,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "mano_grocery_bio",
+    "modelId": "GROCERY_BIO",
+    "storeName": "Ferme Tiko",
+    "tagline": "Fresh from the farm • Marché paysan Antsirabe",
+    "heroTitle": "Fresh from the farm",
+    "heroSubtitle": "Produits bio & frais récoltés le jour même à Antsirabe",
+    "heroImageUrl": "https://i.ibb.co/67CsVDRK/stoc-mano-creator-avatar-1790858798498.jpg",
+    "categories": [
+      "Vegetables",
+      "Fruits"
+    ],
+    "products": [
+      {
+        "id": "gb1",
+        "name": "Panier Légumes Croquants",
+        "subtitle": "Origine : Ferme Andry - Antsirabe",
+        "category": "Vegetables",
+        "price": "18 000 Ar/kg",
+        "tag": "Bio 100%",
+        "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=600&auto=format&fit=crop",
+        "description": "Sélection de carottes, salades, poireaux et tomates fraîches de saison."
+      }
+    ],
+    "extraContent": {
+      "recipeTitle": "Recette du jour : Soupe paysanne bio",
+      "recipeDesc": "Légumes frais d’Antsirabe rissolés avec herbes du jardin et huile locale."
+    },
+    "purpose": "Romance & Rencontre",
+    "totalSales": 20,
+    "activeClients": 30,
+    "activitySummary": "Activité : Fanampiana sy fampandrosoana",
+    "model_id": "GROCERY_BIO"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-01T12:49:41.992Z"
+}
