@@ -1,0 +1,64 @@
+{
+  "id": "influ_1790842317180",
+  "name": "Alex",
+  "group": "INFLU",
+  "model_id": "mod-3",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CRUSH",
+  "profile_id": "influ_1790842317180",
+  "created_at": "2026-10-01T08:11:57.180Z",
+  "specific_fields": {
+    "purpose": "Mitady olontiana",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "name": "Alex",
+    "age": 24,
+    "verified": false,
+    "location": "Paris, France",
+    "badgeSub": "♡ En ligne aujourd'hui • iel/they • 24 ans",
+    "avatarUrl": "https://i.ibb.co/MDtJfgsq/stoc-crush-avatar-1790842229368.jpg",
+    "personality": [
+      "✏️ créatif",
+      "✨ sensible"
+    ],
+    "seeking": "connexion profonde",
+    "seekingDetail": "Je privilégie les liens authentiques et les conversations qui ont du sens",
+    "loveLanguages": [
+      "💬 Paroles valorisantes",
+      "🕒 Temps de qualité",
+      "🎁 Cadeaux attentionnés"
+    ],
+    "passions": [
+      "🎨 Art & création",
+      "🌿 Nature & plantes",
+      "📖 Lecture & écriture",
+      "🎵 Musique indie",
+      "☕ Thé & pâtisserie",
+      "🏺 Poterie créative"
+    ],
+    "quote": "« J'aime les conversations qui durent jusqu'à l'aube et les silences qui rassurent »",
+    "exShadow": "Recherche le respect mutuel et un safe space apaisé",
+    "greenFlags": [],
+    "redFlags": [],
+    "whatIOffer": [],
+    "whatIWant": [],
+    "lifeGoals": [],
+    "values": [],
+    "modelId": "mod-3",
+    "model_id": "mod-3"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-01T08:11:57.180Z"
+}
