@@ -1,5 +1,15 @@
 [
   {
+    "id": "influ_1790842317180",
+    "name": "Alex",
+    "purpose": "Mitady olontiana",
+    "category_tag": "INFLU",
+    "badge": "mod-3",
+    "avatar_url": "https://i.ibb.co/MDtJfgsq/stoc-crush-avatar-1790842229368.jpg",
+    "model_id": "mod-3",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/influ_1790842317180.json"
+  },
+  {
     "id": "influ_1790842236717",
     "name": "Alex",
     "purpose": "24 ans • Paris, France",
