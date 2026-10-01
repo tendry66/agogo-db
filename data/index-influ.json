@@ -1,5 +1,15 @@
 [
   {
+    "id": "influ_1790839098510",
+    "name": "Toky RAMARO",
+    "purpose": "Pff2",
+    "category_tag": "INFLU",
+    "badge": "cv-11",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "model_id": "cv-11",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/influ_1790839098510.json"
+  },
+  {
     "id": "influ_1790838985199",
     "name": "Tsiky",
     "purpose": "Miiii",
