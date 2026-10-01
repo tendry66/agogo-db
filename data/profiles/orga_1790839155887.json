@@ -1,0 +1,138 @@
+{
+  "id": "orga_1790839155887",
+  "name": "Testyy",
+  "group": "ORGA",
+  "model_id": "AKANY_KANTO",
+  "app": "AGOGO_PWA",
+  "category": "ORGA",
+  "section": "PECTO",
+  "subcategory": "ORGA CREA",
+  "profile_id": "orga_1790839155887",
+  "created_at": "2026-10-01T07:19:15.887Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Presentation",
+    "category_tag": "ORGA",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Associiiiiadm",
+    "activity_summary": "Activité : balala"
+  },
+  "data": {
+    "id": "orga_akany_kanto",
+    "modelId": "AKANY_KANTO",
+    "orgName": "Testyy",
+    "tagline": "Association pour l’art et l’éducation des enfants • Antsiranana, Madagascar",
+    "subtitle": "Akany ho an'ny ankizy",
+    "badgeLabel": "Depuis 2022 • 100+ enfants accompagnés • Antsiranana, Madagascar",
+    "location": "Antsiranana (Diego Suarez), Madagascar",
+    "yearEstablished": "2022",
+    "heroTitle": "Akany Kanto Diego",
+    "heroSubtitle": "Akany ho an'ny ankizy",
+    "heroDescription": "Association pour l'art et l'éducation des enfants • Antsiranana, Madagascar. Un espace d'éveil créatif, d'ateliers artistiques et de soutien scolaire pour les enfants.",
+    "heroImageUrl": "https://i.ibb.co/srvB9yr/stoc-orga-crea-avatar-1790838816072.jpg",
+    "heroButton1Text": "Découvrir nos ateliers",
+    "heroButton2Text": "Nous soutenir",
+    "missionTitle": "Ateliers",
+    "missionSubtitle": "Ateliers sary sy mozika Antsiranana — créativité pour tous",
+    "missionContentMalgache": "Akany Kanto Diego dia toerana manokana ho an'ny fampiofanana ny kanto sy ny fahaizana mamorona ho an'ny ankizy rehetra any Antsiranana.",
+    "missionContentFrench": "Nous offrons aux enfants de Diego Suarez un environnement stimulant pour s'exprimer par la peinture, la musique, le modelage et les livres.",
+    "projectsTitle": "Ateliers créatifs",
+    "projectsSubtitle": "Activités hebdomadaires d’art et d’expression",
+    "projectsList": [
+      {
+        "id": "ak1",
+        "title": "Atelier Dessin",
+        "description": "Dessin, peinture et collage pour exprimer son imagination.",
+        "period": "Tous les mercredis • 9h-11h",
+        "status": "Actif",
+        "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "ak2",
+        "title": "Atelier Musique",
+        "description": "Chants, rythmes et instruments faits main en argile et bois.",
+        "period": "Tous les samedis • 14h-16h",
+        "status": "Actif",
+        "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "ak3",
+        "title": "Atelier Modelage en Argile",
+        "description": "Créer des petites sculptures et modeler la terre ensemble.",
+        "period": "Tous les vendredis • 15h-17h",
+        "status": "Actif",
+        "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "teamTitle": "Bénévoles",
+    "teamSubtitle": "Les personnes dévouées auprès de nos enfants",
+    "teamList": [
+      {
+        "id": "akt1",
+        "name": "Niry — Enseignant",
+        "role": "Professeure volontaire",
+        "bio": "Passionnée par la lecture et la transmission de la culture.",
+        "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop"
+      },
+      {
+        "id": "akt2",
+        "name": "Faniry — Artiste",
+        "role": "Artiste local",
+        "bio": "Anime les ateliers musique et création d’instruments.",
+        "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop"
+      },
+      {
+        "id": "akt3",
+        "name": "Mamy — Coordinateur",
+        "role": "Coordination & logistique",
+        "bio": "Assure l’accueil, la sécurité et le soutien aux familles.",
+        "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop"
+      }
+    ],
+    "impactTitle": "Impact",
+    "impactSubtitle": "Résultats clés depuis 2022",
+    "impactMetrics": [
+      {
+        "id": "akm1",
+        "label": "Enfants accompagnés",
+        "value": "100+"
+      },
+      {
+        "id": "akm2",
+        "label": "Ateliers réalisés",
+        "value": "250+"
+      },
+      {
+        "id": "akm3",
+        "label": "Artistes & Bénévoles",
+        "value": "12"
+      }
+    ],
+    "contactAddress": "Rue de la Mer, Antsiranana 201, Madagascar",
+    "contactPhone": "+261 32 12 345 67",
+    "contactEmail": "contact@akanykantodiego.mg",
+    "footerQuote": "Akany Kanto Diego • Association loi 1901",
+    "extraContent": {
+      "testimonials": [
+        {
+          "id": "tm1",
+          "quote": "« Grâce à Akany Kanto Diego, ma fille s’épanouit en dessin et a retrouvé confiance ! Merci aux bénévoles. »",
+          "author": "— Rasoa, maman de Léa • parent d’élève"
+        },
+        {
+          "id": "tm2",
+          "quote": "« Les ateliers musique ont apporté beaucoup de joie à nos enfants du quartier. Une belle initiative ! »",
+          "author": "— Jean, habitant d’Antsiranana • voisin"
+        }
+      ]
+    },
+    "model_id": "AKANY_KANTO"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-01T07:19:15.888Z"
+}
