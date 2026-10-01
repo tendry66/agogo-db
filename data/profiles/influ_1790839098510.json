@@ -1,0 +1,96 @@
+{
+  "id": "influ_1790839098510",
+  "name": "Toky RAMARO",
+  "group": "INFLU",
+  "model_id": "cv-11",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "CV",
+  "profile_id": "influ_1790839098510",
+  "created_at": "2026-10-01T07:18:18.510Z",
+  "specific_fields": {
+    "purpose": "Pff2",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Import-Export",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "3 200 000 Ar",
+    "offer_badge": "Offre Exclusive Antananarivo",
+    "specs_summary": "Année: 2023 • 150cc • 12 000 km • État neuf",
+    "org_type": "Asso",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "fullName": "Toky RAMARO",
+    "title": "Chef de Projet Digital",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "location": "Antananarivo, Madagascar",
+    "email": "miora.rakotomalala@email.mg",
+    "phone": "+261 34 12 345 67",
+    "linkedin": "linkedin.com/in/miorarakotomalala",
+    "profileSummary": "Chef de projet digital dynamique et orientée résultats, avec plus de 4 ans d'expérience dans la conduite de projets digitaux innovants à Madagascar. Passionnée par la transformation numérique et l'optimisation des processus, je combine vision stratégique et approche collaborative pour livrer des solutions technologiques adaptées aux enjeux business.",
+    "experiences": [
+      {
+        "role": "Chef de Projet Digital",
+        "company": "VaoTech Antananarivo",
+        "period": "Janvier 2023 — Aujourd'hui",
+        "highlights": [
+          "Pilotage de 10+ projets digitaux de refonte de plateformes web et mobile pour des clients locaux et internationaux",
+          "Mise en place de méthodologie Agile Scrum, réduction de 25% des délais de livraison",
+          "Coordination d'une équipe de 8 personnes (développeurs, designers, QA)",
+          "Déploiement d'un tableau de bord Power BI pour le suivi des KPI, améliorant la prise de décision de 30%"
+        ]
+      },
+      {
+        "role": "Chef de Projet Digital Junior",
+        "company": "MadaLink Solutions",
+        "location": "Antananarivo",
+        "period": "Juin 2021 — Décembre 2022",
+        "highlights": [
+          "Gestion et suivi des projets de déploiement d'outils collaboratifs pour PME malgaches",
+          "Analyse des besoins clients et rédaction de cahiers des charges fonctionnels",
+          "Organisation de sprints et reporting auprès de la direction, +15% de satisfaction client"
+        ]
+      }
+    ],
+    "educations": [
+      {
+        "degree": "Master en Management Digital",
+        "school": "Université d'Antananarivo",
+        "period": "2020 / 2021",
+        "detail": "Mémoire : Stratégies de transformation digitale pour les PME à Madagascar"
+      },
+      {
+        "degree": "Licence en Informatique",
+        "school": "Université d'Antananarivo",
+        "period": "2017 / 2020"
+      }
+    ],
+    "skills": [
+      "Gestion de projet digital & Agile/Scrum",
+      "Coordination d'équipes pluridisciplinaires",
+      "Planification & Budgeting",
+      "Outils : Jira, Trello, Notion, Figma",
+      "Analyse de données : Power BI, Excel",
+      "Communication & Stakeholder Management",
+      "Transformation digitale"
+    ],
+    "languages": [
+      "Français — Courant (C2)",
+      "Anglais — Professionnel (B2)",
+      "Malgache — Langue maternelle"
+    ],
+    "footerNote": "Références disponibles sur demande • 2026",
+    "tools": [],
+    "projects": [],
+    "certifications": [],
+    "qualities": [],
+    "values": [],
+    "modelId": "cv-11",
+    "model_id": "cv-11"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-01T07:18:18.510Z"
+}
