@@ -1,5 +1,15 @@
 [
   {
+    "id": "stoc_influ_rsty-4",
+    "name": "T'es to 3",
+    "purpose": "Juste un test",
+    "category_tag": "INFLU",
+    "badge": "Cozy Living & Daily Inspo 🌸",
+    "avatar_url": "https://i.ibb.co/JFvjbVr7/stoc-rsty-avatar-1790944569931.jpg",
+    "model_id": "RSTY-04",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/stoc_influ_rsty-4.json"
+  },
+  {
     "id": "stoc_rsty_prof_rsty-8",
     "name": "LOVA Pah",
     "purpose": "Mon Profa perso",
