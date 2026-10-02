@@ -1,5 +1,15 @@
 [
   {
+    "id": "stoc_rsty_prof_rsty-8",
+    "name": "LOVA Pah",
+    "purpose": "Mon Profa perso",
+    "category_tag": "INFLU",
+    "badge": "Artiste Vérifiée ✨",
+    "avatar_url": "https://i.ibb.co/ynrYr17F/stoc-rsty-avatar-1790916764730.jpg",
+    "model_id": "RSTY-08",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/stoc_rsty_prof_rsty-8.json"
+  },
+  {
     "id": "stoc_crush_mod-3_1790858552614",
     "name": "Mirana",
     "purpose": "Mitady akizy kely",
