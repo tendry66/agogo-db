@@ -1,0 +1,164 @@
+{
+  "id": "stoc_rsty_prof_rsty-8",
+  "name": "LOVA Pah",
+  "group": "INFLU",
+  "model_id": "RSTY-08",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "RSTY",
+  "profile_id": "stoc_rsty_prof_rsty-8",
+  "created_at": "2026-10-02T04:54:03.134Z",
+  "specific_fields": {
+    "purpose": "Mon Profa perso",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Commerce",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "rsty-8",
+    "name": "LOVA Pah",
+    "handle": "@antsa.art",
+    "badge": "Artiste Vérifiée ✨",
+    "category": "Artiste Malgache ✨ Conteur Visuel",
+    "location": "Antananarivo, Madagascar 📍",
+    "bio": "Artiste Malgache ✨ Conteur Visuel\nPeinture • Gravures lino & aquarelle\nAntananarivo, Madagascar 📍\nInspiré nature & culture | Commandes ouvertes\nJe partage l’art et la créativité malgache",
+    "collabEmail": "bonjour@antsa.art",
+    "avatarUrl": "https://i.ibb.co/ynrYr17F/stoc-rsty-avatar-1790916764730.jpg",
+    "bannerUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1000&auto=format&fit=crop&q=80",
+    "gallery": [
+      {
+        "id": "art-1",
+        "title": "Palmier aquarelle coloré",
+        "subtitle": "Nuances éclatantes turquoise, rose corail & or soleil",
+        "tag": "AQUARELLE",
+        "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "art-2",
+        "title": "Lémurien style lino vert/orange",
+        "subtitle": "Gravure sur linoléum faite main, tirage limité Maki Catta",
+        "tag": "LINO-GRAVURE",
+        "imageUrl": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "art-3",
+        "title": "Portrait femme couronne fleurs",
+        "subtitle": "Jeune femme malgache parée de frangipaniers et bougainvilliers",
+        "tag": "PORTRAIT",
+        "imageUrl": "https://images.unsplash.com/photo-1561055657-b9e0bf0fa360?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "art-4",
+        "title": "Orchidées blanches & roses",
+        "subtitle": "Planche botanique des orchidées endémiques de la grande île",
+        "tag": "BOTANIQUE",
+        "imageUrl": "https://images.unsplash.com/photo-1546842931-886c185b4c8c?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "art-5",
+        "title": "Carnet de croquis & pinceaux",
+        "subtitle": "Moments d’atelier, godets d’aquarelle artisanale & pigments",
+        "tag": "ATELIER",
+        "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "art-6",
+        "title": "Motif tissé lamba losanges",
+        "subtitle": "Exploration contemporaine des losanges et géométries des hauts plateaux",
+        "tag": "TEXTILE & MOTIF",
+        "imageUrl": "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=600&auto=format&fit=crop&q=80"
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Publications",
+        "value": "89"
+      },
+      {
+        "label": "Abonnés",
+        "value": "12.3K"
+      },
+      {
+        "label": "Abonnements",
+        "value": "340"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "instagram",
+        "handle": "@antsa.art",
+        "url": "#",
+        "followers": "12.3K"
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@antsa_artprocess",
+        "url": "#",
+        "followers": "28K"
+      },
+      {
+        "platform": "email",
+        "handle": "bonjour@antsa.art",
+        "url": "mailto:bonjour@antsa.art"
+      }
+    ],
+    "modelSpecific": {
+      "genzBioLines": {
+        "tagline": "Artiste Malgache ✨ Conteur Visuel",
+        "mediums": "Peinture • Gravures lino & aquarelle",
+        "locationTag": "Antananarivo, Madagascar 📍",
+        "ordersStatus": "Inspiré nature & culture | Commandes ouvertes",
+        "mission": "Je partage l’art et la créativité malgache"
+      },
+      "stories": [
+        {
+          "id": "s-1",
+          "label": "Nouveau",
+          "icon": "plus"
+        },
+        {
+          "id": "s-2",
+          "label": "Art",
+          "icon": "palette"
+        },
+        {
+          "id": "s-3",
+          "label": "Processus",
+          "icon": "brush"
+        },
+        {
+          "id": "s-4",
+          "label": "Voyage",
+          "icon": "tree"
+        },
+        {
+          "id": "s-5",
+          "label": "Marché",
+          "icon": "basket"
+        }
+      ],
+      "activeTab": "posts"
+    },
+    "selectedShiftAppIds": [
+      "domino",
+      "etatsco",
+      "fia"
+    ],
+    "purpose": "Mon Profa perso",
+    "totalSales": 280,
+    "activeClients": 142,
+    "activitySummary": "Activité : Fanampiana sy fampandrosoana",
+    "modelId": "RSTY-08",
+    "model_id": "RSTY-08"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-02T04:54:03.136Z"
+}
