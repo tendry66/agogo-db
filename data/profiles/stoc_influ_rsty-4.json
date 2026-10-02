@@ -1,0 +1,143 @@
+{
+  "id": "stoc_influ_rsty-4",
+  "name": "T'es to 3",
+  "group": "INFLU",
+  "model_id": "RSTY-04",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "RSTY",
+  "profile_id": "stoc_influ_rsty-4",
+  "created_at": "2026-10-02T12:37:05.985Z",
+  "specific_fields": {
+    "purpose": "Juste un test",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Commerce",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "id": "rsty-4",
+    "name": "T'es to 3",
+    "handle": "@ambre.soleil",
+    "badge": "Cozy Living & Daily Inspo 🌸",
+    "category": "Vlogueuse Slow Life & Déco Cosy",
+    "location": "Bordeaux & Campagne Basque 🌿",
+    "bio": "Prendre le temps d’apprécier les petits matins, les tasses de matcha, les livres au soleil et les intérieurs chaleureux 🍵✨ Bienvenue dans ma bulle.",
+    "collabEmail": "bonjour@ambresoleil.fr",
+    "avatarUrl": "https://i.ibb.co/JFvjbVr7/stoc-rsty-avatar-1790944569931.jpg",
+    "bannerUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=1000&auto=format&fit=crop&q=80",
+    "gallery": [
+      {
+        "id": "g-1",
+        "title": "Morning Matcha & Cahier d’écriture",
+        "subtitle": "Rituel doux avant le réveil du quartier",
+        "tag": "RITUEL",
+        "imageUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "g-2",
+        "title": "Coin Bibliothèque en Bois Clair",
+        "subtitle": "Plantes tombantes & lumière du matin",
+        "tag": "DÉCO",
+        "imageUrl": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "g-3",
+        "title": "Bouquet de Fleurs Séchées & Bougies",
+        "subtitle": "Senteur fleur de coton & figue",
+        "tag": "SLOW LIFE",
+        "imageUrl": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=600&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "g-4",
+        "title": "Balade d’Automne au Jardin Botanique",
+        "subtitle": "Pull en maille & carnet argentique",
+        "tag": "BALADE",
+        "imageUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&auto=format&fit=crop&q=80"
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Abonnés Bienveillants",
+        "value": "165K",
+        "change": "+98% satisfaction"
+      },
+      {
+        "label": "Vues Hebdo Vlog",
+        "value": "85K",
+        "change": "Chaque dimanche"
+      },
+      {
+        "label": "Saves Pinterest",
+        "value": "42K",
+        "change": "Épingles déco"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "youtube",
+        "handle": "Ambre Soleil Vlogs",
+        "url": "#",
+        "followers": "165K"
+      },
+      {
+        "platform": "instagram",
+        "handle": "@ambre.soleil",
+        "url": "#",
+        "followers": "128K"
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@ambre_routine",
+        "url": "#",
+        "followers": "94K"
+      },
+      {
+        "platform": "spotify",
+        "handle": "Matcha & Rainy Mornings 🌧️",
+        "url": "#"
+      }
+    ],
+    "modelSpecific": {
+      "playlistMood": "Acoustic Guitar, Soft Lo-Fi & French Bossa Nova",
+      "morningRoutine": [
+        "07h15 : Réveil en douceur sans écran ni notifications",
+        "07h30 : Préparation d’un Matcha Latte au lait d’avoine fouetté",
+        "07h45 : Écriture de 3 pages de pensées & gratitude",
+        "08h15 : Soin hydratant visage & étirements légers"
+      ],
+      "favoriteSpots": [
+        {
+          "name": "Café Piha",
+          "city": "Bordeaux",
+          "vibe": "Torréfacteur artisanal & banana bread tiède"
+        },
+        {
+          "name": "Librairie Mollat",
+          "city": "Bordeaux",
+          "vibe": "Rayon beaux livres & carnets japonais"
+        },
+        {
+          "name": "Boutique Bloom",
+          "city": "Biarritz",
+          "vibe": "Céramiques faites main & bougies bio"
+        }
+      ]
+    },
+    "purpose": "Juste un test",
+    "totalSales": 280,
+    "activeClients": 142,
+    "activitySummary": "Activité : Fanampiana sy fampandrosoana",
+    "modelId": "RSTY-04",
+    "model_id": "RSTY-04"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-02T12:37:05.986Z"
+}
