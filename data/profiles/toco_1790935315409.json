@@ -1,0 +1,32 @@
+{
+  "id": "toco_1790935315409",
+  "name": "Profil AGOGO",
+  "group": "TOCO",
+  "model_id": "MOD-01",
+  "app": "AGOGO_PWA",
+  "category": "TOCO",
+  "section": "PECTO",
+  "subcategory": "MOD-01",
+  "profile_id": "toco_1790935315409",
+  "created_at": "2026-10-02T10:03:40.598Z",
+  "specific_fields": {
+    "purpose": "Lifestyle & Présentation",
+    "category_tag": "TOCO",
+    "sector": "Distribution • Commerce",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": ""
+  },
+  "data": {
+    "initialRegistrations": "+5,7k",
+    "modelId": "MOD-01",
+    "model_id": "MOD-01"
+  },
+  "synced_to_github": true,
+  "published_at": "2026-10-02T10:03:40.598Z"
+}
