@@ -1,5 +1,16 @@
 [
   {
+    "id": "stoc_influ_shaux_shaux-1_1792486437022",
+    "name": "Créateur AGOGO",
+    "purpose": "Test évènement ",
+    "category_tag": "INFLU",
+    "badge": "shaux-1",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1080&q=80",
+    "model_id": "shaux-1",
+    "json_url": "https://cdn.jsdelivr.net/gh/tendry66/agogo-db@main/data/profiles/stoc_influ_shaux_shaux-1_1792486437022.json",
+    "selectedShiftAppIds": []
+  },
+  {
     "id": "stoc_rsty_prof_rsty-10",
     "name": "Alex",
     "purpose": "Romance & Rencontre",
