@@ -1,0 +1,457 @@
+{
+  "id": "stoc_influ_shaux_shaux-1_1792486437022",
+  "name": "Uoko",
+  "group": "INFLU",
+  "model_id": "shaux-1",
+  "app": "AGOGO_PWA",
+  "category": "INFLU",
+  "section": "PECTO",
+  "subcategory": "SHAUX",
+  "profile_id": "stoc_influ_shaux_shaux-1_1792486437022",
+  "created_at": "2026-10-20T08:58:12.617Z",
+  "specific_fields": {
+    "purpose": "Test évènement ",
+    "category_tag": "INFLU",
+    "sector": "Distribution • Commerce",
+    "total_sales": 280,
+    "active_clients": 142,
+    "price": "2 800 000 Ar",
+    "original_price": "",
+    "offer_badge": "Offre Exclusive",
+    "specs_summary": "",
+    "org_type": "Association",
+    "activity_summary": "Activité : Fanampiana sy fampandrosoana"
+  },
+  "data": {
+    "modelId": "shaux-1",
+    "eventTitle": "Uoko",
+    "userSubtitle": "Efa von",
+    "heroImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1080&q=80",
+    "isLiveCountdown": false,
+    "manualDays": "12",
+    "manualHours": "04",
+    "manualMin": "27",
+    "manualSec": "15",
+    "manualMs": "380",
+    "badgeText": "CLAY 3D FESTIVAL 🌸",
+    "ctaText": "Rejoins la tribu clay ✨",
+    "themeColor": "#F472B6",
+    "trendsTitle": "Trends",
+    "storyCards": [
+      {
+        "id": "c1",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "02:14:33",
+        "phrase": "Jour 1: Danse Hira Gasy",
+        "detailDescription": "Grande ouverture avec les troupes de danses folkloriques traditionnelles des hautes terres et de la côte."
+      },
+      {
+        "id": "c2",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "01:07:20",
+        "phrase": "Live Art & Graffiti",
+        "detailDescription": "Performance de fresque murale en direct avec les artistes graffeurs urbains de Tanà."
+      },
+      {
+        "id": "c3",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "00:52:11",
+        "phrase": "Marché Artisanal",
+        "detailDescription": "Exposition de vannerie raphia, soies sauvages et créations contemporaines malgaches."
+      },
+      {
+        "id": "c4",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "03:20:05",
+        "phrase": "Feu de Joie ce Soir",
+        "detailDescription": "Rassemblement nocturne autour du grand feu de camp avec contes et percussions enivrantes."
+      },
+      {
+        "id": "c5",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "04:10:47",
+        "phrase": "Musique Lokanga Live",
+        "detailDescription": "Concert acoustique d instruments à cordes et valiha avec les maîtres de l île."
+      },
+      {
+        "id": "c6",
+        "headerTitle": "SOMA FESTIVAL",
+        "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80",
+        "countdownText": "00:33:59",
+        "phrase": "Saveurs Malgasy",
+        "detailDescription": "Dégustation gastronomique : brochettes masikita, mofo gasy chauds et jus de fruits exotiques."
+      }
+    ],
+    "wheelPromptText": "Tournons la roue du mystères pour plus D'INFOS intéressant ✨",
+    "wheelSlices": [
+      {
+        "id": "s1",
+        "label": "Cadeau Mystère",
+        "iconType": "gift",
+        "color": "#A855F7",
+        "description": "Pochette surprise collector du festival avec goodies officiels !"
+      },
+      {
+        "id": "s2",
+        "label": "Sticker Pack",
+        "iconType": "tree",
+        "color": "#F97316",
+        "description": "Pack de stickers baobabs psychédéliques et illustrations SOMA."
+      },
+      {
+        "id": "s3",
+        "label": "Rencontre Artiste",
+        "iconType": "lemur",
+        "color": "#A855F7",
+        "description": "Accès backstage VIP pour échanger avec les chanteurs et danseurs."
+      },
+      {
+        "id": "s4",
+        "label": "Accès Concert",
+        "iconType": "drum",
+        "color": "#F97316",
+        "description": "Pass privilège au premier rang de la scène principale."
+      },
+      {
+        "id": "s5",
+        "label": "Dégustation Vanille",
+        "iconType": "flower",
+        "color": "#A855F7",
+        "description": "Atelier dégustation de gousses fraîches de la région SAVA et cocktails parfumés."
+      },
+      {
+        "id": "s6",
+        "label": "Atelier Feu",
+        "iconType": "drum",
+        "color": "#F97316",
+        "description": "Session d initiation aux rythmes de tambours autour du feu de camp."
+      }
+    ],
+    "partnersTitle": "Partenaire Officiel",
+    "partners": [
+      {
+        "id": "p1",
+        "name": "Nike",
+        "logoType": "nike"
+      },
+      {
+        "id": "p2",
+        "name": "Spotify",
+        "logoType": "spotify"
+      },
+      {
+        "id": "p3",
+        "name": "Red Bull",
+        "logoType": "redbull"
+      },
+      {
+        "id": "p4",
+        "name": "Adidas",
+        "logoType": "adidas"
+      },
+      {
+        "id": "p5",
+        "name": "Amazon",
+        "logoType": "amazon"
+      },
+      {
+        "id": "p6",
+        "name": "Starbucks",
+        "logoType": "starbucks"
+      }
+    ],
+    "suiteHeroPhoto": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+    "suiteArtistName": "SOMA FESTIVAL",
+    "suiteSubtitle": "",
+    "suiteTourInfo": "",
+    "subscribersCount": "12.4K abonnés",
+    "ticketButtonText": "Obtenir mon billets",
+    "eventDescriptionTitle": "Description de l'événement",
+    "eventDescriptionText": "Rejoignez-nous pour trois jours de sons électroniques, house & techno au cœur de Paris. Line-up exclusif avec artistes internationaux, installations lumineuses immersives et food market artisanal. 18-20 octobre 2024 • Parc de la Villette • 16h -> 02h Expériences sensorielles, chill zone & activations partenaires. Ambiance inclusive et festive — préparez-vous à vibrer.",
+    "galleryTitle": "Créons ensemble une Gallerie de souvenir",
+    "gallerySubtitle": "Dioramas Pixel Voxel 3D • 9 Moments Inoubliables",
+    "galleryAddButtonText": "Ajouter votre souvenir +",
+    "galleryItems": [
+      {
+        "id": "m1",
+        "title": "Plage & Cocotier",
+        "photoUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Sable blanc & lagon",
+        "rotation": -4
+      },
+      {
+        "id": "m2",
+        "title": "Gâteau d'Anniversaire",
+        "photoUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Bougies & cadeaux pastel",
+        "rotation": 3
+      },
+      {
+        "id": "m3",
+        "title": "Montagne & Sapins",
+        "photoUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Sommets enneigés",
+        "rotation": -2
+      },
+      {
+        "id": "m4",
+        "title": "Pause Salon & Café",
+        "photoUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Rires entre amis",
+        "rotation": 2
+      },
+      {
+        "id": "m5",
+        "title": "Bouquet de Tulipes",
+        "photoUrl": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Fleurs du printemps",
+        "rotation": -3
+      },
+      {
+        "id": "m6",
+        "title": "Pique-nique Champêtre",
+        "photoUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Fraises & nappe à carreaux",
+        "rotation": 4
+      },
+      {
+        "id": "m7",
+        "title": "Ruelle Pavée au Crépuscule",
+        "photoUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Lanternes & façades pastel",
+        "rotation": -3
+      },
+      {
+        "id": "m8",
+        "title": "Chiot Golden Adorable",
+        "photoUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Petit compagnon sur l herbe",
+        "rotation": 1
+      },
+      {
+        "id": "m9",
+        "title": "Dîner Festif aux Chandelles",
+        "photoUrl": "https://images.unsplash.com/photo-1529543544282-ea669407fca3?auto=format&fit=crop&w=600&q=80",
+        "dateOrSubtitle": "Toast et lampions",
+        "rotation": -2
+      }
+    ],
+    "ticketPageTitle": "BILLET • PAGE TICKET",
+    "ticketPagePosterHeader": "AFFICHE • GRAND AFFICHAGE",
+    "ticketPagePosterTitle": "FESTIVAL DES LUMIÈRES",
+    "ticketPageArtistOrSubtitle": "ÉDITION 2024 • 15 NOVEMBRE • 19H30",
+    "ticketPageLocation": "PARC DES EXPOS • PARIS",
+    "ticketTableTitle": "TABLE DES BILLETS",
+    "ticketTableSubtitle": "CHOISISSEZ VOTRE TARIF",
+    "ticketTiers": [
+      {
+        "id": "t1",
+        "name": "Tarif Standard",
+        "subtitle": "Accès général • 1 personne",
+        "price": "25€",
+        "iconType": "standard",
+        "buttonText": "Acheter ce tickets",
+        "buttonColor": "#93c5fd"
+      },
+      {
+        "id": "t2",
+        "name": "Tarif Réduit",
+        "subtitle": "- étudiant / - 26 ans",
+        "price": "15€",
+        "iconType": "student",
+        "buttonText": "Acheter ce tickets",
+        "buttonColor": "#86efac"
+      },
+      {
+        "id": "t3",
+        "name": "VIP",
+        "subtitle": "Accès VIP coupe-file",
+        "price": "45€",
+        "iconType": "vip",
+        "buttonText": "Acheter ce tickets",
+        "buttonColor": "#fdba74"
+      }
+    ],
+    "ticketFooterNotes": [
+      "• Frais de service inclus •",
+      "• Billet non remboursable, échangeable → voir conditions"
+    ],
+    "ticketSupportContact": "besoin d'aide ? contact : hello@festival.com",
+    "videoUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+    "videoTitle": "▶ VIDEO • moment du jour • //",
+    "videoSubtitle": "Replay du rire du jour — 00:32",
+    "videoLiveBadgeText": "LIVE REPLAY",
+    "wordCloudTitle": "NUAGE DE MOTS DOODLE",
+    "wordCloudSubtitle": "MOMENTS EN TOUTES DIRECTIONS",
+    "animatedWords": [
+      {
+        "id": "w1",
+        "text": "Délires",
+        "size": "2xl",
+        "rotation": -12,
+        "animationStyle": "wobble",
+        "speed": 4,
+        "highlight": true
+      },
+      {
+        "id": "w2",
+        "text": "Fous",
+        "size": "xl",
+        "rotation": 8,
+        "animationStyle": "bounce",
+        "speed": 3.5
+      },
+      {
+        "id": "w3",
+        "text": "Rire",
+        "size": "2xl",
+        "rotation": -6,
+        "animationStyle": "pulse",
+        "speed": 3
+      },
+      {
+        "id": "w4",
+        "text": "Joie",
+        "size": "xl",
+        "rotation": 14,
+        "animationStyle": "float",
+        "speed": 4.5
+      },
+      {
+        "id": "w5",
+        "text": "Connexion",
+        "size": "lg",
+        "rotation": -18,
+        "animationStyle": "wave",
+        "speed": 5
+      },
+      {
+        "id": "w6",
+        "text": "Revivre",
+        "size": "xl",
+        "rotation": -8,
+        "animationStyle": "drift",
+        "speed": 4
+      },
+      {
+        "id": "w7",
+        "text": "Folie",
+        "size": "lg",
+        "rotation": 10,
+        "animationStyle": "bounce",
+        "speed": 3
+      },
+      {
+        "id": "w8",
+        "text": "Partage",
+        "size": "md",
+        "rotation": 90,
+        "animationStyle": "float",
+        "speed": 6
+      },
+      {
+        "id": "w9",
+        "text": "Liberté",
+        "size": "lg",
+        "rotation": -10,
+        "animationStyle": "wobble",
+        "speed": 4
+      },
+      {
+        "id": "w10",
+        "text": "Rires !",
+        "size": "xl",
+        "rotation": 6,
+        "animationStyle": "pulse",
+        "speed": 3.2,
+        "highlight": true
+      },
+      {
+        "id": "w11",
+        "text": "Créatif",
+        "size": "sm",
+        "rotation": 12,
+        "animationStyle": "drift",
+        "speed": 5
+      },
+      {
+        "id": "w12",
+        "text": "Vivre",
+        "size": "md",
+        "rotation": -4,
+        "animationStyle": "float",
+        "speed": 4
+      },
+      {
+        "id": "w13",
+        "text": "Éclat",
+        "size": "lg",
+        "rotation": -15,
+        "animationStyle": "wobble",
+        "speed": 4.2
+      },
+      {
+        "id": "w14",
+        "text": "Magie",
+        "size": "xl",
+        "rotation": 16,
+        "animationStyle": "pulse",
+        "speed": 3.8
+      },
+      {
+        "id": "w15",
+        "text": "Étincelle",
+        "size": "md",
+        "rotation": -22,
+        "animationStyle": "float",
+        "speed": 5
+      },
+      {
+        "id": "w16",
+        "text": "Passion",
+        "size": "md",
+        "rotation": 14,
+        "animationStyle": "wave",
+        "speed": 4.5
+      },
+      {
+        "id": "w17",
+        "text": "Énergie",
+        "size": "lg",
+        "rotation": -8,
+        "animationStyle": "bounce",
+        "speed": 3.6
+      },
+      {
+        "id": "w18",
+        "text": "Enthousiaste",
+        "size": "xs",
+        "rotation": -12,
+        "animationStyle": "drift",
+        "speed": 6
+      },
+      {
+        "id": "w19",
+        "text": "Rêver",
+        "size": "md",
+        "rotation": -90,
+        "animationStyle": "float",
+        "speed": 5.5
+      }
+    ],
+    "category": "SHAUX",
+    "purpose": "Test évènement ",
+    "totalSales": 280,
+    "activeClients": 142,
+    "activitySummary": "Activité : Fanampiana sy fampandrosoana",
+    "model_id": "shaux-1"
+  },
+  "selectedShiftAppIds": [],
+  "synced_to_github": true,
+  "published_at": "2026-10-20T08:58:12.618Z"
+}
